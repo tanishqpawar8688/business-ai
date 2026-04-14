@@ -1,0 +1,6 @@
+biz-ai-suite/
+├── backend/          # Node.js + Express API
+├── frontend/         # React or Next.js dashboard
+├── ai/               # AI helpers (OpenAI calls)
+├── docs/             # Project notes, feature list
+├── README.md         # Your main project README
